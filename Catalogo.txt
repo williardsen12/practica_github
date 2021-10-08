@@ -1,0 +1,12 @@
+#En este documento se catalogarán los memes del repositorio.
+#Cada entrada debe seguir el siguiente formato:
+#
+#Número de lugar del meme (va aumentando conforme se van agregando)
+#Nombre del meme
+#Nombre del archivo
+#Nombre de persona que subió el meme
+
+01
+Spiderman apunta a Spiderman
+spiderman-meme.jpg
+Alejandro Velázquez
